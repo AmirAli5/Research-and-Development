@@ -1,5 +1,5 @@
 # Research & Development Projects
-In this Repository, I upload my Research and Development Projects which I have done in Bachelor’s Degree (2015-19).
+In this Repository, I upload my Research and Development Projects which I have Completed in Bachelor’s Degree (2015-19).
 #### The Projects are:
 1.	Multilayer Perceptron and Support Vector Machine to filtering the TubeSpam Comments
 2.	Conversational AI Chatbot Based on Encoder-Decoder Architectures with Attention Mechanism
